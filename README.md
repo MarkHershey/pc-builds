@@ -1,7 +1,9 @@
 # Hackintosh Project
 
 - A Hackintosh building experience sharing
-- Based in Singapore 
+- Based in Singapore
+
+<img src="http://freehandforum.com/images/hackintosh-logo-big.jpg" alt="Think Differently" height="500" width=auto>
 
 ## Step 0: Components List
 
@@ -24,8 +26,8 @@
 
 #### Components Cost
 * Price listed below excludes shipping fees and import fees.
-* Prices listed below is the actual amount I have paid. 
-* For items sold by Amazon US, I still ordered them from Amazon Singapore, so the price may be slightly higher than US local price. 
+* Prices listed below is the actual amount I have paid.
+* For items sold by Amazon US, I still ordered them from Amazon Singapore, so the price may be slightly higher than US local price.
 
 | Product | Time of Order | Seller | Price (SGD) | (USD) |
 | :--- | :---: | :---: | :---: | :---: |
