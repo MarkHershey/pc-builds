@@ -1,13 +1,12 @@
 # Hackintosh Project
 
-- A Hackintosh building experience sharing
-- Based in Singapore
+- A mini-ITX desktop Hackintosh building guide.
 
-<img src="http://freehandforum.com/images/hackintosh-logo-big.jpg" alt="Think Differently" height="500" width=auto>
+<img src="http://freehandforum.com/images/hackintosh-logo-big.jpg" alt="Think Differently" height=auto width=100%>
 
-## Step 0: Components List
+## Step 0: Hardware Purchase
 
-#### Components Choice
+#### Component List
 
 | Parts | Model | Specs | Form Factor / Interface |
 | :---: | :--- | :--- | :---: |
@@ -25,9 +24,9 @@
 
 
 #### Components Cost
-* Price listed below excludes shipping fees and import fees.
-* Prices listed below is the actual amount I have paid.
-* For items sold by Amazon US, I still ordered them from Amazon Singapore, so the price may be slightly higher than US local price.
+- I based in Singapore. 
+- Price listed below is the actual amount I have paid in Singapore Dollar, but excludes shipping fees and import fees.
+- For items sold by Amazon US, I ordered them via Amazon SG, as a result, the price may be slightly higher what has been listed on the Amazon US site.
 
 | Product | Time of Order | Seller | Price (SGD) | (USD) |
 | :--- | :---: | :---: | :---: | :---: |
