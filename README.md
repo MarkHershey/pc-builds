@@ -18,7 +18,8 @@
 | SSD | Samsung 970 EVO SSD 1TB | Internal Solid State Drive with V-NAND Technology | M.2 NVMe |
 | PSU | Corsair SF Series, SF600 | 600 Watt, Fully Modular Power Supply, 80+ Gold Certified | SFX |
 | CPU Cooler | Noctua NH-U9S | Premium CPU Cooler with NF-A9 92mm Fan (Brown) | LGA115X |
-| Fan | Noctua NF-A9 Fan | Premium Quiet Fan, 3-Pin (92mm, Brown) | 92x92x25 mm |
+| Fan | Noctua NF-B9 Redux | 4-Pin, High-Performance Cooling Fan with 1600RPM (92mm, Grey) | 92x92x25 mm |
+| Fan | Noctua NF-F12 | Focused Flow and SSO2 Bearing, Retail Cooling, iPPC 3000 PWM| 120x120x25 mm |
 
 
 
@@ -38,5 +39,6 @@
 | Samsung 970 EVO SSD 1TB | 16 Jan 2020 | Amazon US | S$229.60 | $169.90 |
 | Corsair SF Series, SF600 | 18 Jan 2020 | Corsair SG | S$195.00 | $144.30 |
 | Noctua NH-U9S | 14 Jan 2020 | Amazon US | S$81.55 | $60.35 |
-| Noctua NF-A9 Fan | 14 Jan 2020 | Amazon US | S$27.19 | $20.12 |
-| Total | | | S$2067.48 | $1529.94 |
+| Noctua NF-B9 Redux | 08 Feb 2020 | Amazon US | S$16.33 | $12.08 |
+| Noctua NF-F12 | 08 Feb 2020 | Amazon US | S$36.27 | $26.84 |
+| Total | | | S$2092.89 | $1548.74 |
