@@ -1,10 +1,6 @@
-# Hackintosh Project
+# A mini-ITX Desktop Components List
 
--   A mini-ITX desktop components list
-
-## Step 0: Hardware Purchase
-
-#### Component List
+### Component List (Early 2020)
 
 |    Parts    | Model                                        | Specs                                                                                       | Form Factor / Interface |
 | :---------: | :------------------------------------------- | :------------------------------------------------------------------------------------------ | :---------------------: |
@@ -19,7 +15,7 @@
 |     Fan     | Noctua NF-B9 Redux                           | 4-Pin, High-Performance Cooling Fan with 1600RPM (92mm, Grey)                               |       92x92x25 mm       |
 |     Fan     | Noctua NF-F12                                | Focused Flow and SSO2 Bearing, Retail Cooling, iPPC 3000 PWM                                |      120x120x25 mm      |
 
-#### Components Cost
+### Components Cost (Early 2020)
 
 -   I based in Singapore.
 -   Price listed below is the actual amount I have paid in Singapore Dollar, but excludes shipping fees and import fees.
@@ -39,7 +35,7 @@
 | Noctua NF-F12                           |  08 Feb 2020  | Amazon US  |   S$36.27   |  $26.84  |
 | Total                                   |               |            |  S$2092.89  | $1548.74 |
 
-#### GPU Upgrade
+### GPU Upgrade (Early 2021)
 
 | Parts | Model                              | Specs                                   | Form Factor / Interface |
 | :---: | :--------------------------------- | :-------------------------------------- | :---------------------: |
