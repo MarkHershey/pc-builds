@@ -44,3 +44,14 @@
 | Product                            | Time of Order |         Seller         | Price (JPY)  |  (SGD)   |  (USD)  |
 | :--------------------------------- | :-----------: | :--------------------: | :----------: | :------: | :-----: |
 | MSI GeForce RTX™ 3070 VENTUS 2X OC |  30 Jan 2021  | Offline store in Tokyo | JPY ￥ 76796 | S$950.00 | $710.00 |
+
+### Peripherals
+
+Display
+
+|  Parts   | Model                | Specs                                                             | Form Factor / Interface | Time of Order |
+| :------: | :------------------- | :---------------------------------------------------------------- | :---------------------: | ------------- |
+| Display  | Dell S2719HS         | 60 hertz                                                          |        27 Inches        | 22 Sep 2020   |
+| Keyboard | Keychron K2          | Wireless Mechanical, Red Switches, White Backlight                |           75%           |               |
+| Keyboard | Keychron K7          | Low Profile Keychron Optical, Hot-swappable, Red, White Backlight |           65%           |               |
+|  Mouse   | Logitech MX Master 3 |                                                                   |                         |               |
