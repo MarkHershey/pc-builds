@@ -47,12 +47,10 @@
 
 ### Peripherals
 
-Display
-
 |  Parts   | Model                | Specs                                                | Form Factor / Interface | Time of Order |
-| :------: | :------------------- | :--------------------------------------------------- | :---------------------: | ------------- |
-| Display  | LG 29UM58            | 2560 x 1080, 75 herts, IPS LED                       |        29" 21:9         | 16 Aug 2016   |
-| Keyboard | Keychron K2          | 84-key White Backlit Red Switch - Black Frame        |           75%           | 27 Oct 2019   |
-|  Mouse   | Logitech MX Master 3 | 1000 DPI, 2.4 GHz wireless, USB-C charging           |          141 g          | Oct 2019      |
-| Display  | Dell S2719HS         | 1920 x 1080, 60 hertz                                |        27" 16:9         | 22 Sep 2020   |
-| Keyboard | Keychron K7          | Low-profile, Optical, Hot-swap, Red, White Backlight |           65%           | 13 Aug 2021   |
+| :------: | :------------------- | :--------------------------------------------------- | :---------------------: | :-----------: |
+| Display  | LG 29UM58            | 2560 x 1080, 75 herts, IPS LED                       |        29" 21:9         |  16 Aug 2016  |
+| Keyboard | Keychron K2          | 84-key White Backlit Red Switch - Black Frame        |           75%           |  27 Oct 2019  |
+|  Mouse   | Logitech MX Master 3 | 1000 DPI, 2.4 GHz wireless, USB-C charging           |          141 g          |     2019      |
+| Display  | Dell S2719HS         | 1920 x 1080, 60 hertz                                |        27" 16:9         |  22 Sep 2020  |
+| Keyboard | Keychron K7          | Low-profile, Optical, Hot-swap, Red, White Backlight |           65%           |  13 Aug 2021  |
