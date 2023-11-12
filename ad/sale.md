@@ -13,7 +13,7 @@ Key features:
 
 What's NOT included:
 
--   No monitor, keyboard, or any peripherals included.
+-   No monitor, keyboard, or any peripherals are included.
 -   No Windows license included. (Currently running Ubuntu 22.04.3 LTS, I can help you install Windows if you want.)
 
 About warranty:
@@ -29,7 +29,7 @@ This is a custom-built PC by myself. The parts for this PC were purchased from A
 
 ## Detailed Specifications
 
-Perfect for gaming, and deep learning. Extremely quite and cool.
+Perfect for gaming, and deep learning. Extremely quiet and cool.
 
 |    Parts    | Model                                      | Specs                                                 |
 | :---------: | :----------------------------------------- | :---------------------------------------------------- |
